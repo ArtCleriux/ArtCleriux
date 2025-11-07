@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/84417fe0-1a24-4e12-bdb7-5f8bb5435527" />"
+  <img src="https://github.com/user-attachments/assets/84417fe0-1a24-4e12-bdb7-5f8bb5435527" />
   <h1>¡Hola! 👋 Soy Marcos Perez</h1>
 
   <h3>
@@ -48,7 +48,7 @@ Desarrollé una aplicación web completa usando **React** y **Tailwind CSS**. La
 **Tecnologías Usadas:** `React`, `Firebase (Firestore)`, `Tailwind CSS`, `JavaScript`, `dnd-kit`
 
 **Enlaces:**
-* **🔗 Ver Código Fuente:** `[[ENLACE_A_TU_GITHUB_PARA_ESTE_PROYECTO]](https://github.com/ArtCleriux/Mi-asistente)`
+* **🔗 Ver Código Fuente:** `(https://github.com/ArtCleriux/Mi-asistente)`
 
 ---
 
@@ -64,7 +64,7 @@ Desarrollé una API RESTful usando **Python** con el framework **FastAPI**. La A
 **Tecnologías Usadas:** `Python`, `FastAPI`, `SQLAlchemy (ORM)`, `SQL (SQLite)`, `HTML5`, `CSS3`, `JavaScript`
 
 **Enlaces:**
-* **🔗 Ver Código Fuente:** `[[ENLACE_A_TU_GITHUB_PARA_ESTE_PROYECTO]](https://github.com/ArtCleriux/Mini-API-de-Tareas)`
+* **🔗 Ver Código Fuente:** `(https://github.com/ArtCleriux/Mini-API-de-Tareas)`
 
 ---
 
@@ -79,7 +79,7 @@ Desarrollé un script de automatización usando **Python** y la librería **Sele
 **Tecnologías Usadas:** `Python`, `Selenium (Web Scraping/Automatización)`, `WebDriver`
 
 **Enlaces:**
-* **🔗 Ver Código Fuente:** `[[ENLACE_A_TU_GITHUB_PARA_ESTE_PROYECTO]](https://github.com/ArtCleriux/scraper-bing-project)`
+* **🔗 Ver Código Fuente:** `(https://github.com/ArtCleriux/scraper-bing-project)`
 
 ---
 

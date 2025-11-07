@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/84417fe0-1a24-4e12-bdb7-5f8bb5435527" />" alt="Foto de Perfil" width="150px" style="border-radius: 50%;" />
-
+  <img src="https://github.com/user-attachments/assets/84417fe0-1a24-4e12-bdb7-5f8bb5435527" />"
   <h1>¡Hola! 👋 Soy Marcos Perez</h1>
 
   <h3>
